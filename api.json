@@ -6,7 +6,7 @@
       "userPicture": "https://randomuser.me/api/portraits/men/22.jpg",
       "postPicture": "https://historycouk.s3.eu-west-2.amazonaws.com/s3fs-public/styles/860x300/public/2020-07/orson-welles-war-worlds.jpg",
       "description": "On #ThisDayinHistory 1938, Orson Welles caused a nationwide panic with his broadcast of “War of the Worlds”—a realistic radio dramatization of a Martian invasion of Earth",
-      "likes": 8
+      "likes": 10
     },
     {
       "id": 3,
@@ -15,40 +15,24 @@
       "postPicture": "https://blogs.esa.int/iriss/files/2015/09/20457019454_7de78eff73_o.jpg",
       "location": "Space",
       "description": "Waving goodbye to a spacecraft.",
-      "likes": 7
+      "likes": 8
     },
     {
       "id": 4,
       "user": "nasa",
       "userPicture": "https://randomuser.me/api/portraits/women/27.jpg",
-      "postPicture": "https://www.publicdomainpictures.net/pictures/90000/velka/mars.jpg",
+      "postPicture": "https://exame.com/wp-content/uploads/2020/07/marte-1.jpg",
       "location": "Mars",
       "description": "🧭 Explorer, 📸 photographer, ⛰️ geologist, 🧪 chemist... Mars Curiosity does it all!⁣",
-      "likes": 3
-    },
-    {
-      "user": "Jeniffer",
-      "userPicture": "https://randomuser.me/api/portraits/women/21.jpg",
-      "postPicture": "https://ca-times.brightspotcdn.com/dims4/default/0fa1af9/2147483647/strip/true/crop/2048x1492+0+0/resize/1318x960!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2F74%2F19b68bb86cbf7a702e95377266d5%2Fla-corgi-nationals-at-santa-anita-20190527-013",
-      "description": "",
-      "id": 5,
       "likes": 4
     },
     {
-      "user": "Jeniffer",
-      "userPicture": "https://randomuser.me/api/portraits/women/21.jpg",
-      "postPicture": "https://ca-times.brightspotcdn.com/dims4/default/0fa1af9/2147483647/strip/true/crop/2048x1492+0+0/resize/1318x960!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2F74%2F19b68bb86cbf7a702e95377266d5%2Fla-corgi-nationals-at-santa-anita-20190527-013",
-      "description": "",
-      "likes": 106,
-      "id": 6
-    },
-    {
-      "user": "Jeniffer",
-      "userPicture": "https://randomuser.me/api/portraits/women/21.jpg",
-      "postPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDfeScRk9C97lISDmZ496E9cGj_1VSybAErw&usqp=CAU",
-      "description": "",
-      "likes": 108,
-      "id": 7
+      "user": "Ana Carol Ribeiro",
+      "userPicture": "https://instagram.fcgh7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/57267825_311939399481970_9045825433232211968_n.jpg?_nc_ht=instagram.fcgh7-1.fna.fbcdn.net&_nc_ohc=fe6FX_RJTVMAX_V0q5C&tp=1&oh=65096186666d0069c92545b4a019b7c5&oe=6048E8F9",
+      "postPicture": "https://veja.abril.com.br/wp-content/uploads/2019/05/mundo-canada-corgis-festival-20190526-0009-copy.jpg?quality=70&strip=info&w=920",
+      "description": "corrida de pão de forma (Corgi) #corgi #welshcorgipembroke #corgisofinstagram",
+      "likes": 2,
+      "id": 5
     }
   ],
   "stories": [
@@ -78,8 +62,8 @@
     }
   ],
   "user": {
-    "name": "Jeniffer",
-    "username": "jenicarvalho",
-    "userPicture": "https://randomuser.me/api/portraits/women/21.jpg"
+    "name": "Ana Carol Ribeiro",
+    "username": "carolribeiro2112",
+    "userPicture": "https://instagram.fcgh7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/57267825_311939399481970_9045825433232211968_n.jpg?_nc_ht=instagram.fcgh7-1.fna.fbcdn.net&_nc_ohc=fe6FX_RJTVMAX_V0q5C&tp=1&oh=65096186666d0069c92545b4a019b7c5&oe=6048E8F9"
   }
 }

@@ -1,8 +1,6 @@
-import React,{useEffect} from 'react';
-import { useDispatch, useSelector } from 'react-redux'
-import axios from 'axios';
+import React from 'react';
+import { useSelector } from 'react-redux'
 
-import { getUser } from '../../store/ducks/Users/actions';
 import Logo from '../../images/logo-instagram.png';
 import { FiUser} from "react-icons/fi";
 
